@@ -1,5 +1,5 @@
 # Gmod-error-replacement
-The files needed to replace the errors in gmod! You need to have this addon for this to work: 
+The files needed to replace the errors in gmod! You need to have this addon for this to work: https://steamcommunity.com/sharedfiles/filedetails/?id=2062658931
 
 # How to install
 Download this repository as a zip and copy the folder named "garrysmod" to the folder your "gmod.exe" is in! Thats all you need to do!
